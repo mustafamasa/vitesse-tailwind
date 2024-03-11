@@ -9,19 +9,16 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 <br>
 
 <p align='center'>
-<a href="https://vitesse.netlify.app/">Live Demo</a>
+<a href="https://vitesse-tailwind.netlify.app/">Live Demo</a>
 </p>
+
+<br>
+
+> **Note**: This template was created by [@antfu](https://github.com/antfu) using [UnoCSS](https://unocss.dev). Those who wish to use TailwindCSS instead can use this modified template.
 
 <br>
 
 > **Note**: This template is created during the early transition of Vue 3 and Vite. At this moment, if you are seeking for better Vue developer experience and more consistent maintenance, we recommend using [Nuxt 3](https://nuxt.com) instead (it also works perfectly with SPA or SSG as needed). This template still serves as a reference, but expect slower updates.
-
-<br>
-
-<p align='center'>
-<b>English</b> | <a href="https://github.com/antfu/vitesse/blob/main/README.zh-CN.md">简体中文</a>
-<!-- Contributors: Thanks for getting interested, however we DON'T accept new translations to the README, thanks. -->
-</p>
 
 <br>
 
@@ -38,6 +35,8 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 - 📑 [Layout system](./src/layouts)
 
 - 📲 [PWA](https://github.com/antfu/vite-plugin-pwa)
+
+- 🎨 [TailwindCSS](https://tailwindcss.com/)
 
 - 🌍 [I18n ready](./locales)
 
